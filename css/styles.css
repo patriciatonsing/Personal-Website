@@ -1,0 +1,100 @@
+:root body {
+  background-color: #F6DDCC;
+}
+
+.title{
+  color: white;
+  font-family: 'Train One';
+  font-size: 120px;
+}
+
+h1{
+  font-size: 100px;
+  color: #C4D9D7;
+}
+
+p{
+  font-size: 30px;
+  color: white;
+}
+
+.container{
+  display: block;
+  align-items: center;
+  position: absolute;
+}
+.first{
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  background-color: #C4D9D7;
+  top: 0;
+  left: 0;
+}
+
+.wordbox{
+  position: relative;
+  height: auto;
+  width: 400px;
+  background-color: #C4D9D7;
+  left: 100px;
+  top: 75px;
+}
+
+.second{
+  height: 500px;
+  width: 100%;
+  position: absolute;
+  background-color: #F6DDCC ;
+  top: 500px;
+  left: 0;
+}
+
+.third{
+  height: 200px;
+  width: 800px;
+  position: absolute;
+  background-color: green;
+  top: 1000px;
+  left: 0;
+}
+
+.contactbox{
+  height: 200px;
+  width: 800px;
+  position: absolute;
+  background-color: white;
+  top: 1000px;
+  left: 0;
+}
+
+
+.top{
+  height:50px;
+  width: 100%;
+  position: absolute;
+  background-color: white;
+  top:0;
+  left:0;
+}
+
+.circle1{
+  height:200px;
+  width: 200px;
+  background-color: #F6DDCC;
+  position: relative;
+  top:100px;
+  left:600px;
+  border-radius: 100%;
+  border: 5px solid white;
+}
+
+.about-text{
+  background-color: green;
+  position: relative;
+  height: auto;
+  width: 400px;
+  margin: 0 auto;
+  top: 50px;
+
+}
